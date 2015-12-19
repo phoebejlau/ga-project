@@ -1,0 +1,17 @@
+h1 {
+	text-decoration: underline;
+	color:#FFFFFF;
+}
+body {
+	background-image: "unit_3/skyline_hero_image";
+	background-size: cover;
+	background-color: 000;
+	text-align: center;
+	color:#BDBDBD;
+}
+.slogan {
+	font-weight: bolder;
+	font-style: italic;
+	color:#FFFFFF;
+
+}
