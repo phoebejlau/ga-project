@@ -1,3 +1,73 @@
 body {
 	text-align: center;
+	background: url("https://drscdn.500px.org/photo/18829463/m%3D2048/bfd0d750bbaaf2aac8230b450c0d99c3");
+	background-size: cover;
+	color:#737373;
+	font-family: "courier new", sans-serif;
+	font-weight: 500;
+	font-size: 35px;
+	}
+
+h1 {
+	text-align: right;
+	font-family: courier, sans-serif;
+	font-size: 70px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #292929;
+}
+
+#slogan {
+	color: #515151;
+	font-family: impact, sans-serif;
+	font-style: italic;
+	font-size: 50px;
+	text-align: right;
+	font-weight: bolder;
+}
+.background {
+	font-weight: bold;
+	color: black;
+	text-align: center;
+	text-indent: 200px;
+}
+#edmonton {
+	text-align:center;
+	text-indent: 200px;
+	font-weight: bold;
+	color:#737373;
+}
+#hong{
+	text-align:center;
+	text-indent: 200px;
+	font-weight: bold;
+	color:#737373;
+}
+#LA {
+	text-align:center;
+	text-indent: 200px;
+	font-weight: bold;
+	color:#737373;
+}
+#vancouver {
+	text-align:center;
+	text-indent: 200px;
+	font-weight: bold;
+	color:#737373;
+}
+
+#heart {
+	color: #232347;
+	text-align: center;
+}
+
+#contact {
+	text-align: center;
+	font-family: "courier new";
+	font-weight: lighter;
+	color:white;
+	font-size: 15px;
+}
+img {
+	text-align: center;
 }
