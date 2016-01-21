@@ -1,0 +1,86 @@
+@import url(https://fonts.googleapis.com/css?family=Bangers);
+@import url(https://fonts.googleapis.com/css?family=Homenaje);
+
+body {
+	padding: 0.5em;
+}
+nav {
+	text-align: right;
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#landing {
+	/*background: url("../image/landing_hangingout.jpg");*/
+	/*background-size: cover;
+	height: 35em;
+	background-color: black;*/
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#two_column {
+	background-color:#FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: violet;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 45%;
+}
+
+#right {
+	background-color: pink;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 45%;
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+/*#one {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}*/
+h1 {
+	font-family: 'Bangers', cursive;
+	font-size: 70px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #292929;
+}
+
+footer {
+	text-align: center;
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+/*aside {
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+*/
