@@ -335,6 +335,12 @@ footer{
 	#experience {
 		margin-bottom:0;
 	}
+	.title, .degree, .subject {
+		color:#404245;
+	}
+	a {
+		color:#eee;
+	}
 }
 @media only screen and (max-width: 495px){
 	h2 {
