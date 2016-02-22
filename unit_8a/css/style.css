@@ -204,8 +204,10 @@ footer{
 #computer {
 	padding-top: 1em;
 }
+
 #contact {
 	background-color: #707278;
+
 }
 
 /*#more {
@@ -314,9 +316,11 @@ footer{
 		text-align: left;
 		padding-top:0.5em;
 		padding:0;
+		width: auto;
 	}
 	#experience section {
 		background:none;
+		width: 100%;
 		padding-left: 4em;
 		padding-right: 0;
 		padding-bottom: 0;
@@ -325,16 +329,19 @@ footer{
 	#chloe {
 		margin:0;
 	}
-	li {
+	#experience section li {
 		margin: 0;
 	}
 	#experience {
 		margin-bottom:0;
 	}
 }
-@media only screen and (max-width: 490px){
-		nav a {
-		font-size:0.5em;
+@media only screen and (max-width: 495px){
+	h2 {
+		letter-spacing: 0.6em;
+	}
+	nav a {
+	font-size:0.5em;
 	}
 }
 /*@media only screen and (max-width: 400px) {
